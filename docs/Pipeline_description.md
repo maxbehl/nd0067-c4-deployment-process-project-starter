@@ -30,3 +30,9 @@ Showing the detail view of the successfull Build step.
 ### Deployment
 Showing the detail view of the successfull Deployment step.
 ![Pipeline overview](./imgs/circle_ci_deploy.png)
+
+## Environment variables
+
+Below see a screenshot from the environment variables saved in CircleCi:
+
+![Evironment variables](./imgs/circle_ci_env.png)
